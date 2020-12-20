@@ -1,12 +1,12 @@
 body
 {
-   background:linear-gradient(350deg,#a7aba9,white);
-   overflow-x: hidden;
+   background:linear-gradient(90deg,#a7aba9,white,white,#a7aba9);
 }
 .container-fluid
 {
-margin:20px;
+margin-top:20px;
 }
+
 #image1
 {
   width:100%;
