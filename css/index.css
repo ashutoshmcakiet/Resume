@@ -1,6 +1,6 @@
 body
 {
-   background:linear-gradient(45deg,#a7aba9,white);
+   background:linear-gradient(350deg,#a7aba9,white);
    overflow-x: hidden;
 }
 .container-fluid
@@ -61,4 +61,13 @@ td
 {
   background:transparet;
 
+}
+#color0
+{
+  background-color: white;
+  margin-bottom: 15px;
+}
+#color
+{
+  background-color: white;
 }
